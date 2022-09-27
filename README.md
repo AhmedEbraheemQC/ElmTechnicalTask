@@ -23,10 +23,8 @@
 
 
 ### How To Run 
-- Run below command Or right click on EndToEndTests then choose run Or  right click on E2E.xml then choose run 
-```aidl
-mvn clean test
-```
+- Right click on EndToEndTests then choose run Or  right click on E2E.xml then choose run 
+
 
 # Execution Report Snapshot :
 <img width="1756" alt="Screenshot 2022-09-27 at 1 52 39 AM" src="https://user-images.githubusercontent.com/66669388/192406881-d2ca5e2a-e1d9-4617-973e-051a91991e30.png">
