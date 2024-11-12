@@ -1,4 +1,4 @@
-# ElM Technical Task
+# Selenium Project
 
 # Project Structure :
 - This framework followed Page object Model methodology, Pages package include 3 classes for each screen ( Login Page , Dashboard , Board ) and it has a one Test Page (EndToEndTests) .
